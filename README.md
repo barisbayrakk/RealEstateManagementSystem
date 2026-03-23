@@ -1,4 +1,4 @@
-# 🏡 Emlak Yönetim Sistemi (Bayrak Emlak)
+# 🏡 Emlak Yönetim Sistemi
 
 Bu proje, modern bir gayrimenkul / emlak yönetim platformudur. Kullanıcılar satılık/kiralık ev, arsa ve ofis ilanlarını görüntüleyebilir, ilanların detaylarını (oda sayısı, metrekare, kat vb.) inceleyebilir ve konumlara harita üzerinden bakabilir.
 
