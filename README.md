@@ -40,7 +40,7 @@ cd Frontend
 npm install
 npm run dev
 ```
-*İşlem tamamlandığında terminalin size vereceği adresten (genellikle `http://localhost:5173`) projeyi tarayıcınızda açıp inceleyebilirsiniz.*
+*İşlem tamamlandığında terminalin size vereceği adresten (genellikle `http://localhost:3000`) projeyi tarayıcınızda açıp inceleyebilirsiniz.*
 
 ## 📂 Proje Yapısı Hakkında
 Proje temelde ikiye ayrılmıştır:
