@@ -1,0 +1,51 @@
+﻿Using launch settings from C:\Users\LENOVO\OneDrive\Masa├╝st├╝\Emlak\Backend\Properties\launchSettings.json...
+Building...
+dotnet : Unhandled exception. Sys
+tem.InvalidOperationException: An
+ error was generated for warning 
+'Microsoft.EntityFrameworkCore.Mi
+grations.PendingModelChangesWarni
+ng': The model for context 'AppDb
+Context' has pending changes. Add
+ a new migration before updating 
+the database. This exception can 
+be suppressed or logged by passin
+g event ID 'RelationalEventId.Pen
+dingModelChangesWarning' to the '
+ConfigureWarnings' method in 'DbC
+ontext.OnConfiguring' or 'AddDbCo
+ntext'.
+At line:1 char:38
++ ... env:DOTNET_CLI_UI_LANGUAGE=
+'en-US'; dotnet run > out.txt 2>&
+1; Get-Co ...
++                                
+         ~~~~~~~~~~~~~~~~~~~~~~~~
+~
+    + CategoryInfo          : No 
+   tSpecified: (Unhandled excep  
+  ...'AddDbContext'.:String) [   
+ ], RemoteException
+    + FullyQualifiedErrorId : Na 
+   tiveCommandError
+ 
+   at Microsoft.EntityFrameworkCo
+re.Diagnostics.EventDefinition`1.
+Log[TLoggerCategory](IDiagnostics
+Logger`1 logger, TParam arg)
+   at Microsoft.EntityFrameworkCo
+re.Diagnostics.RelationalLoggerEx
+tensions.PendingModelChangesWarni
+ng(IDiagnosticsLogger`1 diagnosti
+cs, Type contextType)
+   at Microsoft.EntityFrameworkCo
+re.Migrations.Internal.Migrator.M
+igrate(String targetMigration)
+   at Microsoft.EntityFrameworkCo
+re.RelationalDatabaseFacadeExtens
+ions.Migrate(DatabaseFacade datab
+aseFacade)
+   at Program.<Main>$(String[] ar
+gs) in C:\Users\LENOVO\OneDrive\M
+asa├╝st├╝\Emlak\Backend\Program.c
+s:line 30
