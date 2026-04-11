@@ -8,39 +8,31 @@ Bu proje, modern bir gayrimenkul / emlak yönetim platformudur. Kullanıcılar s
 - **Backend:** .NET Core Web API (C#)
 - **Mimari:** RESTful API ve Modern Component Tabanlı UI
 
+## 🖥️ Uygulama Görselleri
+
+---
+
+### 🎯 Ana Sayfa
+![Ana Sayfa](images/anasayfa.png)
+
+---
+
+### 🧑‍💼 Admin Panel
+![Admin Panel](images/admin.png)
+
+---
+
+### 🤖 FilmRec Asistan (Chatbot)
+![Chatbot](images/bot.png)
+
+---
+
 ## 📋 Gereksinimler
 
 Projenin bilgisayarınızda çalışabilmesi için aşağıdakilerin kurulu olması gerekir:
 - [Node.js](https://nodejs.org/tr/) (v16 veya üzeri - Frontend için)
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download) (veya kullanımdaki .NET sürümü - Backend için)
 
-## 🛠️ Kurulum ve Çalıştırma Adımları
-
-Projeyi yerel ortamınızda ayağa kaldırmak için aşağıdaki adımları sırasıyla izleyin:
-
-### 1. Projeyi Klonlayın
-```bash
-git clone https://github.com/barisbayrakk/RealEstateManagementSystem.git
-cd RealEstateManagementSystem
-```
-
-### 2. Backend'i (Sunucu) Çalıştırma
-Terminalde Backend klasörüne girin, bağımlılıkları yükleyin ve projeyi başlatın:
-```bash
-cd Backend
-dotnet restore
-dotnet run --urls="http://localhost:5000"
-```
-*Not: Backend sunucusu `http://localhost:5000` adresinde çalışmaya başlayacaktır. Bu terminali açık bırakın.*
-
-### 3. Frontend'i (İstemci) Çalıştırma
-Yeni bir terminal sekmesi (veya penceresi) açın, Frontend klasörüne girin ve React uygulamasını başlatın:
-```bash
-cd Frontend
-npm install
-npm run dev
-```
-*İşlem tamamlandığında terminalin size vereceği adresten (genellikle `http://localhost:3000`) projeyi tarayıcınızda açıp inceleyebilirsiniz.*
 
 ## 📂 Proje Yapısı Hakkında
 Proje temelde ikiye ayrılmıştır:
