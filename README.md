@@ -17,13 +17,18 @@ Bu proje, modern bir gayrimenkul / emlak yönetim platformudur. Kullanıcılar s
 
 ---
 
-### 🧑‍💼 Admin Panel
-![Admin Panel](images/admin.png)
+### 🧑‍💼 İlan Sayfası
+![İlan Sayfası](images/ilanlar.png)
 
 ---
 
-### 🤖 FilmRec Asistan (Chatbot)
-![Chatbot](images/bot.png)
+### 🤖 İlan Detay Sayfası
+![İlan Detay Sayfası](images/ilandetaysayfasi.png)
+
+---
+
+### 🤖 Admin Paneli
+![Admin Paneli](images/admin.png)
 
 ---
 
