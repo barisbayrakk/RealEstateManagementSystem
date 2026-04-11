@@ -13,22 +13,22 @@ Bu proje, modern bir gayrimenkul / emlak yönetim platformudur. Kullanıcılar s
 ---
 
 ### 🎯 Ana Sayfa
-![Ana Sayfa](images/anasayfa.png)
+<img src="images/anasayfa.png" width="100%" />
 
 ---
 
-### 🧑‍💼 İlan Sayfası
-![İlan Sayfası](images/ilanlar.png)
+### 🏠 İlan Sayfası
+<img src="images/ilanlar.png" width="100%" />
 
 ---
 
-### 🤖 İlan Detay Sayfası
-![İlan Detay Sayfası](images/ilandetaysayfasi.png)
+### 📄 İlan Detay Sayfası
+<img src="images/ilandetaysayfasi.png" width="100%" />
 
 ---
 
-### 🤖 Admin Paneli
-![Admin Paneli](images/admin.png)
+### 🧑‍💼 Admin Paneli
+<img src="images/admin.png" width="100%" />
 
 ---
 
