@@ -10,27 +10,17 @@ Bu proje, modern bir gayrimenkul / emlak yönetim platformudur. Kullanıcılar s
 
 ## 🖥️ Uygulama Görselleri
 
----
-
-### 🎯 Ana Sayfa
-<img src="images/anasayfa.png" width="100%" />
-
----
-
-### 🏠 İlan Sayfası
-<img src="images/ilanlar.png" width="100%" />
-
----
-
-### 📄 İlan Detay Sayfası
-<img src="images/ilandetaysayfasi.png" width="100%" />
-
----
+### 🎬 Genel Görünüm
+<p align="center">
+  <img src="images/anasayfa.png" width="30%" />
+  <img src="images/ilanlar.png" width="30%" />
+  <img src="images/ilandetaysayfasi.png" width="30%" />
+</p>
 
 ### 🧑‍💼 Admin Paneli
-<img src="images/admin.png" width="100%" />
-
----
+<p align="center">
+  <img src="images/admin.png" width="60%" />
+</p>
 
 ## 📋 Gereksinimler
 
